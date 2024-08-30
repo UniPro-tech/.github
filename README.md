@@ -1,4 +1,14 @@
-# Hello!!
-This project is a project that uses IT to create interesting things that have not yet existed in the world, such as Gokyoshumyo.
-I put "citizen" in the name because I plan to use this "UntitledProject" name for other things as well. At the same time, everyone involved in this project is a volunteer. And anyone can join this group.
-If you would like to join, please contact us at [@yuito-it](https://github.com/yuito-it).
+# オンラインデジタルサークルUniProject
+UniProjectは老若男女誰でも入れるゆるふわデジタル創作同好会です。
+詳しくは、 https://UniProject-tech.net をご覧ください。
+
+## Repo
+| Name | Datails |
+| --- | --- |
+| [UniPro-Git-Tool](https://github.com/UniPro-tech/UniPro-Git-Tool) | Gitのコミットメッセージを綺麗に書くツール |
+| [UniBot](https://github.com/UniPro-tech/UniBot) | 開発中のDiscordBot |
+| [unipro-site](https://github.com/UniPro-tech/UniPro-site) | UniProjectのサイト |
+
+## Join us...!!!
+[HP](https://uniproject-tech.net)の下部にフォームがありますので、ぜひ入ってください！！
+初心者さんも大歓迎です！
