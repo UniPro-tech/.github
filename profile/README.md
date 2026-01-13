@@ -1,6 +1,6 @@
 # Welcome to UniProject's GitHub Organization 👋
 
-デジタル創作サークルUniProjectの GitHub Organization です。
+デジタル創作サークルUniProjectの GitHub Organization です。<br/>
 サークルについては下記URLをご覧ください。
 
 https://www.uniproject.jp
@@ -15,8 +15,8 @@ https://www.uniproject.jp
 
 ## ✨ サークルに参加してみませんか？
 
-当サークルでは、老若男女誰でも参加できるゆるーくふわっとをモットーにしたサークルです。
-年齢層は中学生から50代の社会人の方まで、さまざまなかたがいらっしゃいます。
+当サークルでは、老若男女誰でも参加できるゆるーくふわっとをモットーにしたサークルです。<br/>
+年齢層は中学生から50代の社会人の方まで、さまざまなかたがいらっしゃいます。<br/>
 また、KubernetesやProxmox VEを学習・開発目的で貸し出し、運用しています 🚀
 
 **少しでもプログラミングに興味があるあなた、ぜひ一緒に活動しましょう！**
